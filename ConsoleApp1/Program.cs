@@ -6,6 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
             double meal_cost = 100;
             int tip_percent = 15;
             int tax_percent = 8;
